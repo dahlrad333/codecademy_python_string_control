@@ -1,3 +1,8 @@
+# Following is a huge string full of customer names, prices of the transactions they made, and 
+# the color of thread they purchased for a hypothetical arts and crafts store. The data is really 
+# messy and stored terribly. The purpose of the code is to seperate the data included in this string
+# into managable, organized lists. 
+
 daily_sales = \
 """Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
 09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
